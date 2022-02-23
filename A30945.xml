@@ -1,0 +1,353 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Memorials of Alderman Whitmore, Bishop Wilkins, Bishop Reynolds, Alderman Adams ...</title>
+            <author>Barksdale, Clement, 1609-1687.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1681</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 49 KB of XML-encoded text transcribed from 26 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2013-12">2013-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A30945</idno>
+            <idno type="STC">Wing B798</idno>
+            <idno type="STC">ESTC R35314</idno>
+            <idno type="EEBO-CITATION">15237638</idno>
+            <idno type="OCLC">ocm 15237638</idno>
+            <idno type="VID">103264</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A30945)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 103264)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1140:3)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Memorials of Alderman Whitmore, Bishop Wilkins, Bishop Reynolds, Alderman Adams ...</title>
+                  <author>Barksdale, Clement, 1609-1687.</author>
+               </titleStmt>
+               <extent>42 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed by J. Redmayne for John Barksdale ...,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1681.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>"To the reader" signed: C.B.</note>
+                  <note>Attributed to Barksdale by Wing.</note>
+                  <note>Reproduction of original in the Bodleian Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Church of England --  Biography.</term>
+               <term>Funeral sermons.</term>
+               <term>Great Britain --  Biography.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2012-10</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2012-10</date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2012-11</date>
+            <label>Ali Jakobson</label>Sampled and proofread</change>
+         <change>
+            <date>2012-11</date>
+            <label>Ali Jakobson</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2013-02</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:103264:1" rendition="simple:additions"/>
+            <p>Memorials OF Alderman <hi>WHITMORE,</hi> Biſhop <hi>WILKINS,</hi> Biſhop <hi>REYNOLDS,</hi> Alderman <hi>ADAMS.</hi>
+            </p>
+            <p>
+               <hi>Clemens Romanus.</hi>
+            </p>
+            <q>Seditio paucorum hominum inſo<g ref="char:EOLhyphen"/>lentiâ &amp; audaciâ in tantam veſaniam exarſit, ut honorificum &amp; illuſtre no<g ref="char:EOLhyphen"/>men veſtrum, &amp; ab omnibus amari dignum, vehementer blaſphemetur. <bibl>Epiſt. ad <hi>Cor. p.</hi> 2.</bibl>
+            </q>
+            <p>
+               <hi>LONDON,</hi> Printed by <hi>J. Redmayne</hi> for <hi>John Barksdale</hi> Bookſeller in <hi>Ciren<g ref="char:EOLhyphen"/>ceſter</hi> 1681.</p>
+         </div>
+         <div type="to_the_reader">
+            <pb facs="tcp:103264:2"/>
+            <head>To the Reader.</head>
+            <p>
+               <hi>GOod Reader,</hi> be pleaſed to know, that the Collector of theſe <hi>Four Memorials</hi> (choſen out of many) hath formerly ſet forth <hi>Four Decads;</hi> and if this little piece be well accepted <hi>(i. e.</hi> be of quick ſale) he intendeth to make them up <hi>ſeven Decads,</hi> to be Printed all toge<g ref="char:EOLhyphen"/>ther in <hi>one</hi> fair Volume. Wherein you ſhall receive ſome of the beſt <hi>Flowers</hi> of that ſort of <hi>Hiſtory,</hi> which is eſteemed the beſt of <hi>Hiſtories,</hi> that of <hi>Lives.</hi> In theſe Four excellent Perſons, as the preſent <hi>Biſhops</hi> of the Church; and the preſent <hi>Magiſtrates</hi> of the Great City, may (perhaps) vouch<g ref="char:EOLhyphen"/>ſafe to note ſome things worthy of their <hi>Imitation;</hi> So the People may (I hope) be excited to a greater reverence, both to Magiſtracy, and Epiſcopacy. <hi>Faxit Deus!</hi>
+            </p>
+            <closer>
+               <signed>C. B.</signed>
+            </closer>
+         </div>
+         <div type="poem">
+            <pb facs="tcp:103264:3" rendition="simple:additions"/>
+            <head>
+               <hi>To the Dean of</hi> Gloceſter <hi>Biſhop Elect.</hi>
+            </head>
+            <lg>
+               <l>HEalth to the Dean of <hi>Gloceſter,</hi>
+               </l>
+               <l>Contented with his meaner Chair,</l>
+               <l>May he poſſeſs the Biſhops Throne,</l>
+               <l>For publick Good and for his own!</l>
+               <l>A good work's fit for a good Man:</l>
+               <l>But this ſo great a work who can</l>
+               <l>Well manage? He that ſees the vaſt</l>
+               <l>Reward, the Crown beſtow'd at laſt.</l>
+               <l>Take courage Sir, and do not fear:</l>
+               <l>Your helper the great God is near.</l>
+               <l>Long may you live, who <hi>Gloſter</hi> pleaſe!</l>
+               <l>
+                  <hi>Gloſter?</hi> Nay the whole Dioceſe.</l>
+               <l>We all, that to the Church are true,</l>
+               <l>Eſteem our ſelves much bleſt in you.</l>
+               <l>But you above all others we may bleſs,</l>
+               <l>Who to ſo many impart Happineſs.</l>
+            </lg>
+            <lg>
+               <l>What Bleſſed Dostrine have we heard</l>
+               <l>From your Pulpit? And when we jarr'd,</l>
+               <l>What induſtry, what haſt, what pain</l>
+               <l>You took, to make in one agrin!</l>
+               <l>Propagate your ſweet violence</l>
+               <l>Through all our Country, and from hence</l>
+               <l>To your <hi>Aleppo</hi> ſend the Influence:</l>
+               <l>
+                  <hi>Aleppo</hi> made more famous by your deeds:</l>
+               <l>My Men to tell them neither can nor needs.</l>
+               <pb facs="tcp:103264:3"/>
+               <l> What my Verſe wants, my vow ſupplies:</l>
+               <l>May you live gratious in Gods eyes:</l>
+               <l>May King and People love you ſtill,</l>
+               <l>And you Preach unto them Gods will:</l>
+               <l>Your Clergy guide with Holy Diſcipline;</l>
+               <l>Make them in life, as in their Name Divine.</l>
+            </lg>
+         </div>
+      </front>
+      <body>
+         <div type="memorial">
+            <pb facs="tcp:103264:4"/>
+            <pb n="1" facs="tcp:103264:4"/>
+            <head>Sir <hi>G. Whitmore,</hi> Sometime Lord Major of <hi>London, (obiit</hi> 1654. <hi>Decemb.</hi> 12.)</head>
+            <head type="sub">From Mr. <hi>Anthony Farindon</hi>'s Ser<g ref="char:EOLhyphen"/>mon on <hi>Pſalm.</hi> 119. 19. <hi>I am a Stranger in the Earth, hide not thy Commandments from me.</hi>
+            </head>
+            <p n="1">1. NOw turn your Eyes and Thoughts upon this <hi>Pilgrim</hi> here, this Honored and Wor<g ref="char:EOLhyphen"/>thy <hi>Knight,</hi> who hath paſſed through the buſie Noiſe and Tumults of this World to his long home and reſt. In which paſ<g ref="char:EOLhyphen"/>ſage of his he hath ſo exactly performed the part and Office of a Stranger and Pilgrim, that he is followed with the ap<g ref="char:EOLhyphen"/>plauſe of them that knew him. And as in his <hi>Death</hi> he is become an argument to prove the Doctrine which I have taught, ſo in his <hi>Life</hi> he made himſelf a great ex<g ref="char:EOLhyphen"/>ample for them to look upon, who are now Travelling and Laboring in the ſame way.</p>
+            <p n="2">2. Look upon him then in every capa<g ref="char:EOLhyphen"/>city and relation, either as a part of the
+<pb n="2" facs="tcp:103264:5"/> 
+               <hi>Common-wealth,</hi> or a Member of the <hi>City,</hi> or a Father of a <hi>Family,</hi> and you ſhall diſcover the Image and fair repreſentation of a <hi>Stranger</hi> in every one of theſe Rela<g ref="char:EOLhyphen"/>tions. For no Man can take this Honor to himſelf to be a good Common-wealths Man, or a good Maſter of a Family, but he who is as <hi>David</hi> was, a Stranger. All the ataxy and diſorder, all the noiſe we hear, and miſchief we ſee in the World, are from Men who love it too well, and would live and dwell and delight them<g ref="char:EOLhyphen"/>ſelves in it for ever.</p>
+            <p n="3">3. For the <hi>Firſt,</hi> I may truly ſay as <hi>Lampridius</hi> did of <hi>Alexander Severus,</hi> He was <hi>vir bonus &amp; reip. neceſſarius,</hi> a good Man and of neceſſary uſe in the <hi>Common-wealth.</hi> He laid all the ſtrength he had to uphold it, and preferred the Peace and Welfare of it to his own, as well knowing that a private houſe might ſink and fall to the ground, and yet the <hi>Common-wealth</hi> Stand and Flouriſh; but that the Ruin of the whole muſt neceſſarily draw with it the other parts, and at laſt bury them in the ſame grave. And here he found as rough a paſſage as <hi>Rufus</hi> in <hi>Ta<g ref="char:EOLhyphen"/>citus</hi> did in a publick <hi>Commotion: who was</hi>
+               <pb n="3" facs="tcp:103264:5"/> 
+               <hi>pulled out of his Chariot, loaden with Scoffs and Reproaches,</hi> &amp;c. So was this Worthy Knight taken from his Wife whom he en<g ref="char:EOLhyphen"/>tirely loved, and from his Children thoſe pledges of his love, and conveyed to Ship, and by Ship to Priſon in a remote City (where he found ſome Friends) and then was brought back again from thence to a Priſon nearer home; where, if the Provi<g ref="char:EOLhyphen"/>dence of God had not gone along with him and ſhadowed him, he had met the Plague.</p>
+            <p n="4">4. But it may be ſaid, what praiſe is it to ſuffer all this, if he ſuffer <hi>as an evil doer,</hi> and not for <hi>Conſcience</hi> towards God? I come not hither to diſpute that, but am willing to refer it to the great tryal, which ſhall open every eye to behold that truth, which now being dazled with fears and hopes, and even blinded with the love of the World, it cannot ſee. But if it were an error, and not knowledg but miſtake, that drove him upon theſe Pricks; yet ſure it was <hi>an error of a fair deſcent,</hi> begot in him by looking ſtedfaſtly on the truth, and by having a ſteddy Eye on <hi>the</hi> Oath <hi>of God.</hi> And if here he fell, he fell like a Chriſtian, who did exerciſe himſelf <hi>to keep</hi>
+               <pb n="4" facs="tcp:103264:6"/> 
+               <hi>a good Conſcience.</hi> For he that followeth not his Conſcience when it erreth, will be as far from hearkning to it when it ſpeaks the truth; for even error it ſelf ſheweth the Face of truth to him that erreth, or elſe he would not err at all: And yet (I need not fear to ſay it) it is an error of ſuch a nature, that it may rather de<g ref="char:EOLhyphen"/>ſerve applauſe than cenſure, even from thoſe who call it by that Name. For we do not uſe to fall willingly into ſo danger<g ref="char:EOLhyphen"/>ous, vexatious, and <hi>coſtly errors,</hi> errors which will ſtrip us and put a Yoke upon us, Errors which will put us in Priſon. No; to fly from theſe we too oft fly from the truth it ſelf, when it is as open as the day, and commandeth our Faith though not our Tongue, and forceth our aſſent when we renounce it.</p>
+            <p n="5">5. Again, take him in the <hi>City;</hi> in this he bore the higheſt honor, and fitted the greateſt place, yet was rather an orna<g ref="char:EOLhyphen"/>ment unto it than that unto him. For he ſat in it as a <hi>Stranger</hi> and a <hi>Pilgrim;</hi> as a Man going out of the World; nor did ſo much conſider his Power as his Du<g ref="char:EOLhyphen"/>ty; which lookt forward, and had re<g ref="char:EOLhyphen"/>ſpect to that which cannot be found in
+<pb n="5" facs="tcp:103264:6"/> this, but is the Riches and Glory of ano<g ref="char:EOLhyphen"/>ther world. Therefore this world was never in his Thoughts, never came in to ſowr Juſtice; to turn Judgment into Wormwood by corrupting it, or into Vi<g ref="char:EOLhyphen"/>negar by delaying it. There were no Cries of Orphans, no Tears of Widows, no loud Complaints of the oppreſſed to diſquiet him in his paſſage, which uſe to follow the Oppreſſor even to the gates of Hell, and there deliver him up to thoſe howlings which are everlaſting. How oft hath he been preſented to me, and that by prudent and judicious Men, as the Honour and Glory of the City? And thus he went on his way, full of Temptati<g ref="char:EOLhyphen"/>ons and Troubles, and full of Honours, <hi>even of thoſe Honours which he refuſed.</hi> For you may remember how he bore that great Office, and you may remem<g ref="char:EOLhyphen"/>ber how he refuſed it, and gained as much Honour in the hearts of Men by the laſt as by the firſt, as much Honour by withdrawing himſelf and ſtaying below, as he did formerly in ſitting in the high<g ref="char:EOLhyphen"/>eſt place with the Sword in his Hand. For the ſtate and face of things may be ſuch, as may warrant <hi>Demoſthenes</hi> Wiſh and Choice, and make it more commen<g ref="char:EOLhyphen"/>dable
+<pb n="6" facs="tcp:103264:7"/> 
+               <hi>in exilium ire quam tribunal,</hi> to go into Baniſhment then to aſcend the Tribunal. And he beſt deſerveth Honour, who can in wiſdom withdraw himſelf: And he can beſt manage Power, who knoweth when to lay it down.</p>
+            <p n="6">6. Bring him now from the publick ſtage of Honour to his private <hi>Houſe,</hi> and there you might have ſeen him walking, as <hi>David</hi> ſpeaketh, in the midſt of his Houſe in Innocency and <hi>with a perfect Heart;</hi> as an Angel or Intelligence mo<g ref="char:EOLhyphen"/>ving in his own Sphere, and carrying on every thing in it with that order and <hi>de<g ref="char:EOLhyphen"/>corum</hi> which is the glory of a <hi>Stranger;</hi> whoſe moving in it is but a going out of it, to render an account of every Act and Motion. You might have beheld him looking with a ſetled and immoveable eye of Love on his <hi>Wife,</hi> walking hand in hand with her for forty four years, and walking with her as his Fellow Traveller with that love which might bring both at laſt to the ſame place of reſt. You might behold him looking on his <hi>Children</hi> with an Eye of care as well as of affection, initiating them into the ſame Fellowſhip of <hi>Pilgrims;</hi> and on his <hi>Servants,</hi> not as
+<pb n="7" facs="tcp:103264:7"/> on Slaves, but as his <hi>humble and inferior Friends,</hi> as <hi>Seneca</hi> calls them, and as his <hi>Fellow-Pilgrims</hi> too. And thus he was a <hi>Domeſtick Magiſtrate,</hi> a lover and exam<g ref="char:EOLhyphen"/>ple of that truth which <hi>Socrates</hi> taught: <hi>That they who are good Fathers of their Family will make the beſt and wiſeſt Ma<g ref="char:EOLhyphen"/>giſtrates:</hi> They who can manage their own Cock-boat well, may be fit at laſt to ſit at the Stern of the <hi>Common-wealth.</hi> For a private Family is a Type and Repreſenta<g ref="char:EOLhyphen"/>tion of it, nay (ſaith <hi>Euſebius in vit. Conſt.)</hi> of the <hi>Church</hi> it ſelf.</p>
+            <p n="7">7. I confeſs, I knew him but in his Evening, when he was near his Journeys End, and then too but at ſome Diſtance, but even then I could diſcover in him that ſweetneſs of diſpoſition and that courte<g ref="char:EOLhyphen"/>ous affability, which by Sr. <hi>Paul</hi> are com<g ref="char:EOLhyphen"/>mended as virtues, but have loſt that name with Hypocrites, with Proud and Superſtitious Men; who make it a great part of their Religion to pardon none<g ref="char:punc">▪</g> but themſelves, and then think they have put off the old Man when they have put off all Humanity. In theſe <hi>Homilitick Virtues</hi> I could diſcern a fair proficiency in this Reverend Knight; and what my Know<g ref="char:EOLhyphen"/>ledg
+<pb n="6" facs="tcp:103264:8"/>
+               <gap reason="duplicate" extent="1 page">
+                  <desc>〈1 page duplicate〉</desc>
+               </gap>
+               <pb n="7" facs="tcp:103264:8"/>
+               <gap reason="duplicate" extent="1 page">
+                  <desc>〈1 page duplicate〉</desc>
+               </gap>
+               <pb n="8" facs="tcp:103264:9"/> ledge could not reach was abundantly ſup<g ref="char:EOLhyphen"/>plyed and brought unto me by the joynt teſtimony of thoſe who knew him, and by a Teſtimony which commendeth him to Heaven and to God Himſelf, the Mouths of the <hi>Poor</hi> which he ſo often filled.</p>
+            <p n="8">8. Thus did he walk on as a <hi>Stranger,</hi> comforting and ſupporting his <hi>Fellow-Pil<g ref="char:EOLhyphen"/>grims,</hi> and reaching forth his Charity to them as a Staff. Thus he expreſt himſelf Living, and thus he hath expreſt himſelf in his <hi>laſt Will,</hi> which is <hi>voluntas ul<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ra mor<g ref="char:EOLhyphen"/>tem,</hi> the Will, the Mandate, the Language of a Dead-man: <hi>Speculum morum</hi> (ſaith <hi>Pliny)</hi> the Glaſs wherein you may ſee the Charity, that is, the Face, the Image of a <hi>Pilgrim;</hi> by which he hath bequeathed a Legacy of Comfort and ſupply to every Priſon, and to many Pariſhes within this City. He <hi>remembred them who are in Bonds,</hi> as one who was ſometimes a <hi>Priſoner.</hi>
+            </p>
+            <p n="9">9. I know, in this World it is a hard thing <hi>juſtum eſſe ſine infamia,</hi> to be good and not to hear ill. <hi>Expedit enim in malis, ne<g ref="char:EOLhyphen"/>minem eſſe bonum:</hi> For evil Men make it their work to deface every fair Image of Virtue, and then think well of themſelves
+<pb n="9" facs="tcp:103264:9"/> when they have made all as evil as them<g ref="char:EOLhyphen"/>ſelves. But it was this our Honor'd Bro<g ref="char:EOLhyphen"/>thers happineſs to find no Accuſer, but himſelf: I may truly ſay, I never yet heard any. Report hath given him an Honorable Paſs. The Voice of the Poor was, <hi>He was full of good works:</hi> the Voice of the City, <hi>He was a good Magiſtrate;</hi> the Voice of his Equals, <hi>He was a true Friend;</hi> the Voice of all that I have heard, <hi>He was a juſt Man;</hi> and then our Charity will ſoon conclude, <hi>He was a good Chriſtian.</hi> For he lived and dyed a <hi>Son of the Church,</hi> of the Reformed; and according to the way which ſome call <hi>Hereſie,</hi> ſome <hi>Super<g ref="char:EOLhyphen"/>ſtition,</hi> ſo Worſhipped he <hi>the God of his Fathers.</hi>
+            </p>
+            <p n="10">10. And now he is gone to his <hi>Long Home,</hi> and the Mourners go about the Streets. He is gone to the Grave in a full Age, when that was well near expi<g ref="char:EOLhyphen"/>red which is <hi>but Labor and Sorrow,</hi> 
+               <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap> (as <hi>Cyril</hi> ſpeaks) grown in Wiſdom and Grace; which is a fairer Teſtimony of Age, then the Gray<g ref="char:EOLhyphen"/>hairs or Fourſcore Years. His <hi>Body</hi> muſt return to the duſt, and his <hi>Soul</hi> is return<g ref="char:EOLhyphen"/>ed to God that gave it; and being dead
+<pb n="10" facs="tcp:103264:10"/> 
+               <hi>he yet ſpeaketh,</hi> ſpeaketh by his Charity to the Poor; ſpeaketh by his fair Example to his Brethren of the City, to honor and reverence their Conſcience more than their Purſe, <hi>vitam<expan>
+                     <am>
+                        <g ref="char:abque"/>
+                     </am>
+                     <ex>que</ex>
+                  </expan> impendere vero;</hi> to be ready to reſign all, even life it ſelf, for the truth: He ſpeaketh to his Friends, and he ſpeak<g ref="char:EOLhyphen"/>eth to his relict, his Virtuous and Reve<g ref="char:EOLhyphen"/>rend Lady, once Partner of his cares and joys, his Fellow-Traveller; and to his Children, who are now on their way, and following apace after him; <hi>Weep not for me? Why ſhould you weep? I have laid by my Staff, my Scrip, my Proviſion, and am at my journeys end, at reſt. I have left you in a Vally, in a buſie tumultuous World: But the ſame Hand, the ſame Proviſion, the ſame Obedience to Gods Commands will guide you alſo, and promote you to the ſame place, where we ſhall reſt and rejoyce together for evermore.</hi>
+            </p>
+            <pb facs="tcp:103264:10"/>
+         </div>
+         <div type="memorial">
+            <pb n="12" facs="tcp:103264:11"/>
+            <head>Dr. <hi>John Wilkins,</hi> Lord Biſhop of <hi>Cheſter.</hi> (Oblit. 1672.)</head>
+            <head type="sub">From Dr. <hi>William Lloyd.</hi>
+            </head>
+            <p n="1">1. TO begin with the <hi>Natural En<g ref="char:EOLhyphen"/>dowments</hi> of his Mind: He had an <hi>
+                  <g ref="char:V">Ʋ</g>nderſtanding,</hi> that exten<g ref="char:EOLhyphen"/>ded to all parts of uſeful Learning and Knowledge; a Will always diſpoſed to great and publick and generous things. He had a natural averſion from all idle <hi>Speculations,</hi> and from the eager purſuit of ſmall and frivolous deſigns. In great matters he judged ſo well, that he was not uſually ſurprized with events. He purſued his Intentions with ſuch <hi>Equalneſs of Mind,</hi> that he was never carried be<g ref="char:EOLhyphen"/>yond the calmneſs of his natural Temper, except through his zeal for publick good, or where his <hi>Friend</hi> was concerned.</p>
+            <p n="2">2. What he was in his <hi>Studies,</hi> I have reaſon to know, that have often been ti<g ref="char:EOLhyphen"/>red
+<pb n="13" facs="tcp:103264:11"/> with ſtudying with him. He was <hi>indefatigable,</hi> and would have worn him<g ref="char:EOLhyphen"/>ſelf out, if he had not been relieved with multiplicity of buſineſs. However, he im<g ref="char:EOLhyphen"/>paired by it, a Body which ſeemed to have been built for a long Age, and con<g ref="char:EOLhyphen"/>tracted thoſe infirmities that haſtened his Death. The effect of his <hi>Studies,</hi> in his Preaching and Writings, are ſufficiently known, and would have been much more, if God had given him Time.</p>
+            <p n="3">3. As for his <hi>Preaching,</hi> it was ſome<g ref="char:EOLhyphen"/>times Famous at St. <hi>Laurence, London;</hi> though he ſought rather the Profit than the Praiſe of his Hearers. He ſpoke <hi>ſolid Truth,</hi> with as little ſhew of Art as was poſſible. He expreſt all things in their true and natural Colors; with that apt<g ref="char:EOLhyphen"/>neſs and plainneſs of Speech, that grave natural way of <hi>Elocution,</hi> that ſhewed he had no deſign upon his Hearers. His <hi>Plainneſs</hi> was beſt for the inſtruction of the Simple; and for the better ſort, he applyed himſelf rather to their Underſtand<g ref="char:EOLhyphen"/>ing, then Affections. He ſaw ſo much of the <hi>Beauty of Goodneſs</hi> himſelf, that he thought the bare ſhewing of it was enough, to make all Wiſe Men
+<pb n="14" facs="tcp:103264:12"/> (as it did him) to be in love with it.</p>
+            <p n="4">4. In his <hi>Writings,</hi> he was judicious and plain, like one that valued not the Cir<g ref="char:EOLhyphen"/>cumſtances, ſo much as the Subſtance. And he ſhewed it in whatſoever Argu<g ref="char:EOLhyphen"/>ment he undertook; ſometimes beating out <hi>new</hi> untravel'd ways, ſometimes re<g ref="char:EOLhyphen"/>pairing thoſe that had been beaten alrea<g ref="char:EOLhyphen"/>dy. No ſubject he handled, but I dare ſay is the <hi>better</hi> for him, and will be the <hi>eaſier</hi> for them that come after him.</p>
+            <p n="5">5. If in theſe he went ſometimes beſide his <hi>Profeſſion,</hi> it was in following the <hi>De<g ref="char:EOLhyphen"/>ſign</hi> of it, to make Men wiſer and better: which I think is the buſineſs of <hi>
+                  <g ref="char:V">Ʋ</g>niverſal Knowledge.</hi> And <hi>this</hi> he promoted with much zeal and ſincerity, in hope of the great <hi>Benefit</hi> that may accrue to <hi>Mankind.</hi> It was his aim, as in all things, ſo eſpe<g ref="char:EOLhyphen"/>cially in that, which (I conceive) is much more cenſured than underſtood: I mean, in the deſign of the <hi>Royal Society.</hi> He joyned himſelf to it, with no other end, but to promote modern knowledge, with<g ref="char:EOLhyphen"/>out any Contempt or leſſening of thoſe <hi>Great Men</hi> in former times. With due
+<pb n="15" facs="tcp:103264:12"/> Honor to whom, he thought it lawful for others to do that which, we have no rea<g ref="char:EOLhyphen"/>ſon to doubt, they <hi>themſelves</hi> would have done, if they were living.</p>
+            <p n="6">6. His <hi>Prudence</hi> was great: I think, it never failed in any thing to which he ap<g ref="char:EOLhyphen"/>plyed himſelf. And yet he wanted that part, which ſome hold to be eſſential; he ſo wanted <hi>Diſſimulation,</hi> that he had ra<g ref="char:EOLhyphen"/>ther too much openneſs of Heart. It was <hi>Sincerity</hi> indeed that was natural to him; he ſo abhorred a <hi>Lye,</hi> that he was not at all for ſhew; he could not put on any thing that look't like it; and preſuming the ſame of other Men, through exceſs of <hi>Benignity,</hi> he would be ſometimes de<g ref="char:EOLhyphen"/>ceived, in believing they were what they ſeem'd to be, and what he knew they ought to have been.</p>
+            <p n="7">7. His <hi>Greatneſs of Mind,</hi> was known to all that knew any thing of him. He neither eagerly ſought any <hi>Dignity,</hi> nor declined any capacity of doing Good. He lookt down upon Wealth, as much as o<g ref="char:EOLhyphen"/>thers admire it. He knew the <hi>
+                  <g ref="char:V">Ʋ</g>ſe</hi> of an Eſtate, but did not covet it. What he yearly received of the <hi>Church</hi> he beſtow<g ref="char:EOLhyphen"/>ed
+<pb n="16" facs="tcp:103264:13"/> in its ſervice. As for his <hi>Temporal</hi> Eſtate, being ſecured againſt want, he ſought no farther, he ſet up his reſt. I have heard him ſay often, <hi>I will be no Richer,</hi> and I think he was as good as his Word.</p>
+            <p n="8">8. As for <hi>Revenge,</hi> how could it enter into the Breaſt of him, that hated nothing, but that which makes us hatefull to <hi>God?</hi> I ſay not, but he had a ſenſe of Perſonal <hi>Injuries,</hi> and eſpecially of thoſe that re<g ref="char:EOLhyphen"/>flected upon his <hi>Name,</hi> when they pro<g ref="char:EOLhyphen"/>ceeded from thoſe that had good Names of their own: What others ſaid, de de<g ref="char:EOLhyphen"/>ſpiſed; but by thoſe, he would often wiſh, he had been better <hi>underſtood:</hi> That he was not, he bore as his misfortune: He would not requite them with the like, but mention'd them with all due reſpect, and was always ready to <hi>oblige</hi> them, and to do them good.</p>
+            <p n="8">8. Yet it was not ſo deſireable, to be at thoſe terms with him, as to be his <hi>Acquaintance</hi> or <hi>Friend.</hi> They that were never ſo little <hi>familiar</hi> with him, could not but find, as well benefit as delight in his <hi>Converſation.</hi> His <hi>Diſcourſe</hi> was com<g ref="char:EOLhyphen"/>monly
+<pb n="17" facs="tcp:103264:13"/> of uſefull things: it never cauſed trouble or wearineſs to the Hearer. Yet he would venture to diſpleaſe one for his <hi>good:</hi> and indeed, he was the Man that ever I knew, for that <hi>moſt needfull and leaſt practiced</hi> point of Friendſhip. He would not ſpare to give <hi>ſeaſonable reproof,</hi> and wholſome advice, when he ſaw <hi>occa<g ref="char:EOLhyphen"/>ſion.</hi> I never kn<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>w any, that would do it ſo <hi>freely,</hi> and that knew how to man<g ref="char:EOLhyphen"/>age that freedom of Speech ſo <hi>inoffen<g ref="char:EOLhyphen"/>ſively.</hi>
+            </p>
+            <p n="9">9. It was his way of <hi>Friendſhip,</hi> not ſo much to oblige Men, as to do them good: he did this; not ſlightly and ſuper<g ref="char:EOLhyphen"/>ficially, but like one that made it his <hi>Buſineſs:</hi> He durſt do for his <hi>Friend,</hi> any thing that was honeſt, and no more: He would undertake nothing, but what well became him; and then he was unwearied til he had effected it.</p>
+            <p n="10">10. It hath been ſpoken by ſome, that he had not that <hi>zeal for the Church,</hi> that they would ſeem to have that object this: He ſeemed to look upon <hi>Diſſenters,</hi> with too much favour to their perſons and wayes.</p>
+            <p n="11">
+               <pb n="18" facs="tcp:103264:14"/> 11. As for the <hi>Perſons,</hi> no doubt that <hi>Goodneſs of Nature,</hi> that true Chriſtian Principle, which made him willing to think well of all Men, and to do good, or at leaſt no hurt to any, might and ought to extend it ſelf to them among others. But beſides he was inclined to it by his Education, under his <hi>Grandfather Mr. Dod,</hi> a turly pious and learned man, who yet was a <hi>Diſſenter</hi> himſelf in ſome things: Not, that he had any delight in contradiction, or could find in his heart to <hi>diſturb</hi> the Peace of the Church for thoſe matters: He was ſo far from it, that when ſome thought their diſſents ground enough for a <hi>War, Mr. Dod</hi> de<g ref="char:EOLhyphen"/>clared himſelf againſt it, and confirmed others in their <hi>Allegiance,</hi> profeſſing to the laſt a juſt hatred of that horrid <hi>Re<g ref="char:EOLhyphen"/>bellion.</hi> Now his Relation to this Man, and Converſation with thoſe of his <hi>Prin<g ref="char:EOLhyphen"/>ciples,</hi> might encline him to hope the like of others of that way, and vehemently deſire to reduce them to the <hi>
+                  <g ref="char:V">Ʋ</g>nity</hi> of the Church, in which his Grandfather lived and dyed.</p>
+            <p n="12">12. As for <hi>himſelf,</hi> He was ſo far from approving <hi>their Wayes,</hi> that in the worſt of
+<pb n="19" facs="tcp:103264:14"/> Times, when One bewailed to him the Calamities of the Church, and declared his <hi>Obedience,</hi> even then, to the Laws of it; He encouraged him in it, he deſired his Friendſhip, and protected both him and many others, by an intereſt that he had gained, and made uſe of chiefly for ſuch purpoſes.</p>
+            <p n="13">13. How he demeaned <hi>Himſelf</hi> then, is known in <hi>both <g ref="char:V">Ʋ</g>niverſities;</hi> where he governed with praiſe, and left a very gratefull Remembrance behind him: How in the next Times ſince, <hi>is well known in London.</hi> And having named this City and the two Univerſities, I think he could not be placed in a better light in this Nation. There were enough that could judge, and he did not uſe to diſguiſe himſelf: I appeal to you that converſed with him in thoſe dayes: what <hi>zeal</hi> he hath expreſt for the Faith, and for the Unity of the Church; How he ſtood up in defence of the Order and Government: How he hath aſſerted the <hi>Liturgy</hi> and the <hi>Rites</hi> of it. He conformed himſelf to every thing that was commanded: be<g ref="char:EOLhyphen"/>yond which, for any Man to be vehe<g ref="char:EOLhyphen"/>ment, in little and unneceſſary things,
+<pb n="20" facs="tcp:103264:15"/> whether for or againſt them, he could not but diſlike, and as his free manner was, he hath oft been heard to call it <hi>Fanaticalneſs.</hi> How this might be miſre<g ref="char:EOLhyphen"/>preſented I know not, or how his <hi>Deſign of Comprehenſion</hi> might be underſtood.</p>
+            <p n="14">14. Sure I am, that ſince he came in<g ref="char:EOLhyphen"/>to the <hi>Government</hi> of the Church (to which he was called in his Abſence) he ſo well became the <hi>Order,</hi> that it out did the expectation of all that did not very well know him: He filled his Place with a <hi>Goodneſs</hi> anſwerable to the reſt of his Life, and with a <hi>Prudence</hi> above it; conſidering the two extreams, which were no where ſo much as in his <hi>Dioceſe.</hi> Though he was, as before, very tender to thoſe that differ'd from him; yet he was, as before, exactly conformable him<g ref="char:EOLhyphen"/>ſelf, and brought others to <hi>Conformity,</hi> ſome eminent Men in his Dioceſe. He endeavoured to bring in all that came within his reach, and might have had great ſucceſs, if God had pleaſed to continue him. But having given full proof of his <hi>Intentions</hi> and Deſires, it pleaſed God to reſerve the <hi>Fruit</hi> for other Hands; from which we have cauſe to expect much Good to the Church.</p>
+            <p n="15">
+               <pb n="21" facs="tcp:103264:15"/> 15. He was in perfect Health in all o<g ref="char:EOLhyphen"/>ther reſpects, when a known <hi>Infirmity,</hi> from an unknown Cauſe (that had been eaſier to cure then it was to diſcover) ſtole upon him, and ſoon became incura<g ref="char:EOLhyphen"/>ble. He was for many dayes in a pro<g ref="char:EOLhyphen"/>ſpect of <hi>Death,</hi> which he ſaw as it ap<g ref="char:EOLhyphen"/>proached, and felt it come on by de<g ref="char:EOLhyphen"/>grees. Some dayes before he dyed, he found within himſelf, as he often ſaid, <hi>A ſentence of Death.</hi> In all this time, who ever ſaw him <hi>diſmaid?</hi> who ever found him <hi>ſurpriz'd;</hi> or heard a word from him, unbecoming a wiſe man and a true Chriſtian. At the times I was with him, I ſaw great Cauſe to admire his <hi>Faith</hi> towatds God, his <hi>Zeal</hi> for his Church, his <hi>Conſtancy</hi> of Mind, his <hi>Con<g ref="char:EOLhyphen"/>tempt</hi> of the World, and his chearfull <hi>Hopes</hi> of Eternity. That the Memory of this <hi>Worthy Prelate</hi> may not be abuſed, I <hi>declare,</hi> and that upon moſt certain Grounds: <hi>That he dyed in the Faith of our Lord Jeſus Chriſt, and in the Commu<g ref="char:EOLhyphen"/>nion of the Church of England, as it is by Law eſtabliſhed.</hi>
+            </p>
+            <p n="16">16. He dyed only too ſoon for the <hi>Church,</hi> and for his <hi>Friends;</hi> but for <hi>Him<g ref="char:EOLhyphen"/>ſelf</hi>
+               <pb n="22" facs="tcp:103264:16"/> he had lived long enough. <hi>He has lived long enough that dies well.</hi> As for us we muſt ſubmit to the Will of God: Our <hi>Comfort</hi> is, that we ſhall follow, and come together again in due Time.</p>
+         </div>
+         <div type="memorial">
+            <pb n="23" facs="tcp:103264:16"/>
+            <head>Doctor <hi>Edward Reynolds</hi> Lord Biſhop of <hi>Norwich. (Obiit.</hi> 1676.)</head>
+            <head type="sub">From Mr. <hi>B. Riveley.</hi>
+            </head>
+            <p>
+               <hi>VIr nec tacendus, nec dicendus:</hi> A Man of whom I can't be ſilent, without detriment to the Church, and diſhonor to God; and yet a Man of whom I can't ſpeak, without loſs to his Merit, and diminution to his Worth.</p>
+            <p n="1">1. <hi>He was a Good Man.</hi> He was of a moſt ſweet and obliging temper, of great Candor and Integrity: He had a comely Countenance, a gentle Diſpoſition, a pleaſantneſs of Converſation. Reaſon ſat as Queen in his Soul, Paſſion and Appe<g ref="char:EOLhyphen"/>tite were as Handmaids.</p>
+            <p n="2">2. <hi>He was a Good Chriſtian.</hi> Revelati<g ref="char:EOLhyphen"/>on was a great Miſtreſs with him, and he was a great Adorer, as well as Practicer of the will of God. Religion ſanctifyed his Reaſon, and Grace his Na<g ref="char:EOLhyphen"/>ture; and of all Accompliſhments, he ac<g ref="char:EOLhyphen"/>counted
+<pb n="24" facs="tcp:103264:17"/> it his Glory to be a Diſciple of Chriſt<g ref="char:punc">▪</g> The Fear of the Lord was to him the top of his Wiſdom. He endea<g ref="char:EOLhyphen"/>voured that his ways might be found perfect before God. He was carefull to maintain good Works (I ſpeak it know<g ref="char:EOLhyphen"/>ingly) as the neceſſary Fruits of Chriſti<g ref="char:EOLhyphen"/>an Faith; and ſuch Works as are due to Men, as well as thoſe that have a more immediate reſpect to Cod. To honour his King, to ſpeak well of his Superiors, to be obedient to Laws in Church and State; to govern his Tongue, to love his Neighbors, and to take the worſt Ene<g ref="char:EOLhyphen"/>mies he had in the world into the num<g ref="char:EOLhyphen"/>ber; This was his Religion. 'Twas a piece of his Conſcience to do theſe things; as well as to preach and to pray, and to frequent the worſhip of God.</p>
+            <p n="3">3. <hi>He was a good Miniſter of the Goſ<g ref="char:EOLhyphen"/>pel.</hi> For this he had a great name, all his undignified time; and when he came to the <hi>high place,</hi> he did not make an end of prophecying. He was built and fra<g ref="char:EOLhyphen"/>med on purpoſe, to be an Inſtructor and Curate of Souls: For he was ſober and wiſe, able to ſalve difficulties, to deter<g ref="char:EOLhyphen"/>mine caſes, to quiet conſciences. He was
+<pb n="25" facs="tcp:103264:17"/> an Interpreter, one of a thouſand; ano<g ref="char:EOLhyphen"/>ther <hi>Apollos</hi> mighty in the Scriptures. He was of a ſedate mind, of a tender Compaſſionate Spirit, heartily deſirous of Mens eternal Good; and not only his Induſtry, but his delights run out that way, how to bring it about.</p>
+            <p n="4">4. <hi>He was a good Biſhop.</hi> There are two ſorts of People, and they differ among themſelves <hi>toto coelo,</hi> that can hardly allow him to have been a good Biſhop: The one ſort think him not good, becauſe a Biſhop at all, making thoſe terms <hi>Good</hi> and <hi>Biſhop</hi> inconſiſtent, but theſe are abſurd and unreaſonable Men, and their tongue is no ſlander, and I trouble my ſelf no further with them; the other can't afford him to be good in his capacity, becauſe he was not ſo much a Biſhop, as they would have had him: that is to ſay, becauſe he would not drive their pace, he would not govern by their Rules, not execute cenſures at their heights, nor interpret Canons in their ſenſe. What truer Indication would you have of wiſe and good Government, then from its natural and proper effects? And for that matter I dare appeal to your
+<pb n="26" facs="tcp:103264:18"/> own obſervation, whether in any Dioceſe in the Kingdom <hi>(caeteris paribus)</hi> there be to be found a more ſober, regular, and loyal Clergy, a more conformable Peo<g ref="char:EOLhyphen"/>ple, more decent and well repaired Churches, and a greater alteration both of Judgment and Manners of Men, ſince the late Times of Anarchy and Confuſi<g ref="char:EOLhyphen"/>on (which is eſpecially viſible in matter of the Sacrament) then in this Dioceſe. Reſolve this into the true Reaſon, and continue malevolent to the Memory of him that is gon, if you can.</p>
+            <p>I paſs on, to his Learning, Writing, Preaching, Living.</p>
+            <p n="1">1. <hi>He was an excellent Scholar:</hi> He had a great ſtock of natural Parts, and en<g ref="char:EOLhyphen"/>dowments, to which he added an inde<g ref="char:EOLhyphen"/>fatigable Induſtry, and God gave a plen<g ref="char:EOLhyphen"/>tiful Benediction. His skill in the Greek Tongue got him his Fellow-ſhip in <hi>Mer<g ref="char:EOLhyphen"/>ton</hi> College in <hi>Oxford,</hi> in Sir <hi>Henry Savils</hi> time. And what a rare Humaniſt he was, and how well vers't in the Po<g ref="char:EOLhyphen"/>lite parts of Learning, his juvenile piece upon the <hi>Paſſions</hi> abundantly teſtifies.</p>
+            <p n="2">2. And indeed he was <hi>an admirable Writer</hi> for wit, judgment and fancy; of
+<pb n="27" facs="tcp:103264:18"/> all which there ſeems to be a curious mixture in his Books.</p>
+            <p n="3">3. Moreover he was a <hi>Great Divine,</hi> and in his Time a moſt celebrated <hi>Preach<g ref="char:EOLhyphen"/>er.</hi> For his <hi>Divinity</hi> I need only ſay He was a true continuer of the name of <hi>Rey<g ref="char:EOLhyphen"/>nolds,</hi> in the Church of <hi>England;</hi> and for his <hi>Sermons</hi> they met with the Approba<g ref="char:EOLhyphen"/>tion, both of Prince and People, Scholars, Gentlemen, and Citizens; all ranks of Men have given their honorable Teſtimo<g ref="char:EOLhyphen"/>ny to them. He was a Man of God, throw<g ref="char:EOLhyphen"/>ly furniſhed to every good word and work: He had the Art of ſaving Souls, if e<g ref="char:EOLhyphen"/>ver any had.</p>
+            <p n="4">4. But above all I muſt not forget the Virtues and <hi>Graces</hi> wherein he did excell. For he was <hi>as good a Liver,</hi> as he was a <hi>Preacher</hi> or a <hi>Writer.</hi> All his other good qualities were adorned, and both greener and riper years were ſeaſoned with the Piety of a <hi>Saint.</hi> His youth was not obſerv'd to be ſtain'd with the vices of that Age, and when the Church brought him her Miter, God had Crown'd his Head before, according to that of Solomon: <hi>The hoary head is a Crown of</hi>
+               <pb n="28" facs="tcp:103264:19"/> 
+               <hi>Glory, if it be found in the way of righteouſ<g ref="char:EOLhyphen"/>neſs.</hi>
+            </p>
+            <p>But more particularly, his <hi>Humility, Meekneſs, Patience, Charity</hi> are remarkable in him.</p>
+            <p n="1">1. He was <hi>cloathed with Humility,</hi> and 'twas his upper Garment, and cover'd all the reſt of his Accompliſhments. He had mean thoughts of Himſelf, and was con<g ref="char:EOLhyphen"/>tent that others ſhould have ſo of him too; and though his face ſhone yet he would not know it. There was no leven of Pride, or ill Humour, or Surlineſs, or Ambition in him; no difficulty of acceſs nor affecta<g ref="char:EOLhyphen"/>tion of diſtance; if you had but the face of a Gentleman, or the habit of a Clergy<g ref="char:EOLhyphen"/>man, all Ceremony muſt be laid aſide in order to Converſe. Doubtleſs, he was a great Judge of Learning, and yet the moſt candid Auditor of Sermons in the World: he was never heard to cenſure any body, though he himſelf has not been ſpared.</p>
+            <p n="2">2. Neither was there wanting in him the Ornament of <hi>a meek and quiet Spirit,</hi> whereby he became a true Copy of the Grand Exemplar, and Biſhop of our Souls. 'Tis an uſual ſaying among ſome, <hi>ſuch a thing would vex a Saint:</hi> but truly what would vex or ruffle, or diſcompoſe this
+<pb n="29" facs="tcp:103264:19"/> holy Man was a hard matter to deter<g ref="char:EOLunhyphen"/>min. 'Tis ſcarce remembred, that ever he was ſeen in Paſſion. For forty nine years together, wherein He and his Con<g ref="char:EOLhyphen"/>ſort liv'd in married ſtate, not many words, worthy of the denomination of <hi>Angry,</hi> have been obſerved to drop from him. This I can aſſure you, He had his ſhare both of Injuries from Men, and of Afflictions from God, and he was ſenſible of them; always with the preſervation of his Religious Integrity, and the exer<g ref="char:EOLhyphen"/>ciſe of <hi>Meekneſs</hi> towards Men, and of <hi>Patience</hi> towards God.</p>
+            <p n="3">3. And I may truly ſay that in him <hi>Patience</hi> had her work. Though toward the latter end of his Life his days were full of pain, nights of wearineſs, yet he knew that by Patience he was as well to wait, as to endure; and that he was to honour the Soveraign of his Life and Death, as well by tarrying his leiſure, as by bearing his hand. His repeated Pray<g ref="char:EOLhyphen"/>er to Heaven was, that in his utmoſt Ex<g ref="char:EOLhyphen"/>tremities he might not be provoked to ſpeak diſhonorably of God; and when through ſome fierce exacerbation of his diſeaſe, he was conſtrain'd to make ſome
+<pb n="30" facs="tcp:103264:20"/> noiſe and outcry, he would preſently ſubjoyn, <hi>Though he did roar, he did not murmur.</hi>
+            </p>
+            <p n="4">4. As the Complement of all the reſt; His <hi>
+                  <g ref="char:V">Ʋ</g>niverſal Charity</hi> to the Perſons and Souls of Men was ſo conſpicuous, that the world could not deny it, but was forc'd to call it Compliance. All the doubt may be concerning his Charity to the Poor and Needy, becauſe the excel<g ref="char:EOLhyphen"/>lency of this Virtue lies in the ſecrecy of its Practice. Dayly and hourly were the Emanations of his Charity, while he liv'd, but moſt of them running like ſtreams un<g ref="char:EOLhyphen"/>der ground, til he was dead. Many were the Gifts he ſcattered to the bringing up of <hi>poor Children</hi> at School, to the mainte<g ref="char:EOLhyphen"/>nance of <hi>poor Scholars</hi> in the Univerſity: to the ſupportation and encouragement of ancient foundations of Piety and Lear<g ref="char:EOLhyphen"/>ning: to the relief of viſited places in his Dioceſe: to the ſupply of the wants of poor Miniſters <hi>Widows:</hi> to the Aug<g ref="char:EOLhyphen"/>mentation of ſmall Vicarages in his Gift Add the ſeveral ſhares that <hi>Southampton,</hi> the place of his Birth, <hi>Merton</hi> College the place of his firſt Preferment, <hi>North<g ref="char:EOLhyphen"/>hampton</hi> the place of his firſt Miniſterial
+<pb n="31" facs="tcp:103264:20"/> Employment, <hi>Norwich<g ref="char:punc">▪</g>
+               </hi> where he departed had; you cannot want a ſufficient evidence of his abundant <hi>Charity.</hi>
+            </p>
+            <p>Laſtly, God was pleaſed to do him an extraordinary kindneſs, an <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, a gen<g ref="char:EOLhyphen"/>tle Death, the laſt ſand in the Hour-Glaſs falling with no leſs difficulty, than wherewith he expired.</p>
+         </div>
+         <div type="memorial">
+            <pb facs="tcp:103264:21"/>
+            <pb n="33" facs="tcp:103264:21"/>
+            <head>IV. Sir <hi>Thomas Adams</hi> Alderman of <hi>London. (Obiit.</hi> 1667.)</head>
+            <head type="sub">(From Doctor <hi>Hardy.)</hi>
+            </head>
+            <p n="1">1. THere is no leſs then a Three-fold obligation laid upon us of publiſhing the excellencies, of thoſe who have done worthily and been Famous in their Generations. Hereby we glorifie the Lord in his Servants, and that is <hi>Piety;</hi> we honor the Dead in their Me<g ref="char:EOLhyphen"/>mory, and that is <hi>Equity;</hi> we benefit the People by their Examples, and that is <hi>Charity.</hi> I ſhall not ſay more of this Worthy Perſon, then what not only very credible Information, but (for the moſt part) my own perſonal knowledge will warrant me, having had the honor of more than Twenty Years acquaintance with him, Fifteen whereof he was the Chief Inhabi<g ref="char:EOLhyphen"/>tant of that Pariſh, wherein I was an Unworthy Laborer.</p>
+            <p n="2">2. His very outward aſpect was amia<g ref="char:EOLhyphen"/>ble,
+<pb n="34" facs="tcp:103264:22"/> nay venerable, and his preſence as the appearance of ſome bright Star, hav<g ref="char:EOLhyphen"/>ing a pleaſing influence upon all that look<g ref="char:EOLhyphen"/>ed upon him. But could you have view<g ref="char:EOLhyphen"/>ed his inſide, beheld that virtuous Soul which inhabited his comely Body, how would it have raviſhed you, and yet, though we could not directly, we might reflexively, and that both from his words and works, <hi>The Lips of the Righteous feed many;</hi> to wit, with wholſome Counſells and Comforts; keeping as it were an open Table for all Comers; ſuch were his Lips, with which (as well, nay better than with his Bountiful Table) he fed not on<g ref="char:EOLhyphen"/>ly his Children and Servants, but all who converſed with him. Among whom I can truly ſay, I never went to him, but I did, or might come away better'd by his gra<g ref="char:EOLhyphen"/>cious and prudent diſcourſe. Nor was he only a Man of words; his goodneſs was not only at his Tongues end, but at his Fingers ends. That of our Saviour con<g ref="char:EOLhyphen"/>cerning himſelf, is (in an inferior way) verifyed of him, <hi>My Works teſtifie of me.</hi> So that, he was not only, in reſpect of his words, a ſweet and pleaſing Voice, but of his works, <hi>a Burning and Shining Light.</hi>
+            </p>
+            <p n="3">
+               <pb n="35" facs="tcp:103264:22"/> 3. God was pleas'd ſo far to bleſs his honeſt endeavors, in that calling wherein his Providence had placed him, that he enjoyed a liberal Portion of this Worlds goods, nor did he want thoſe honors which were ſuitable to him. Whatſoever honor in the City he was capable of, he was choſen to; Maſter of his Company, Al<g ref="char:EOLhyphen"/>derman of a Ward, Preſident of St. <hi>Thomas</hi> Hoſpital, ſeveral times Burgeſs in Parlia<g ref="char:EOLhyphen"/>ment (though the iniquity of the times would not permit him to ſit) Sheriff and <hi>Lord Major.</hi> After which he at length became, and ſo continued for ſome Years the firſt among the Twenty Six, the Elde<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> Alderman upon the Bench that had ſerved in the Office of Lord Major; to whom is given that Honorable Title <hi>The Father of the City.</hi> Nor had he only this Honor from the City, but his <hi>King</hi> alſo gave him the greateſt Honor he was capable of in his Station, making him not only a Knight, but a <hi>Baronet;</hi> which deſcends upon Poſte<g ref="char:EOLhyphen"/>rity. I mention theſe, in as much as they are Inſtruments of Virtue, and ſo they were to him, he being a bountiful Steward of his Riches, nor did his Dignities ſo much Honor him as he them.</p>
+            <p n="4">
+               <pb n="36" facs="tcp:103264:23"/> 4. Throughout the Age of his Life he was by God's Providence inſtated in ma<g ref="char:EOLhyphen"/>nifold Relations, intruſted with various Offices, converſant in ſeveral imployments; in all which he had no cauſe to complain with him who ſaid; <hi>Omnia fui, nihil pro<g ref="char:EOLhyphen"/>fuit;</hi> All of them being as ſo many Chan<g ref="char:EOLhyphen"/>nels, through which run his ſeveral Vir<g ref="char:EOLhyphen"/>tues and Graces.</p>
+            <p n="5">5. I will begin with that which is the beginning of Wiſdom, <hi>the Fear of the Lord.</hi> He was eminent for Religion and Devo<g ref="char:EOLhyphen"/>tion. That Orthodox Religion which is profeſſed in the <hi>Church of England,</hi> he faithfully adhered to, cordially owning Her Doctrine and Diſcipline, Hierarchy and Liturgy: and though he lived in an unconſtant Age (wherein it was the mode to change Religions as Women do Faſhi<g ref="char:EOLhyphen"/>ons) he proved not a Reed or a Willow, but an Oak, ſtedfaſt and immovable. Great was his reſpect to the Orthodox and Or<g ref="char:EOLhyphen"/>thoprax Clergy: Thoſe who were ſufferers, he charitably relieved: Thoſe who were Laborers, he bountifully encouraged: <hi>Schiſ<g ref="char:EOLhyphen"/>matical Conventicles</hi> he abhorred, but du<g ref="char:EOLhyphen"/>ly frequented the Church Aſſemblies, a Judicious Hearer of Gods Word, a diligent
+<pb n="37" facs="tcp:103264:23"/> Receiver of the Lords Supper: and though it was an Age wherein irreverence was in Faſhion, and devotion decryed as Su<g ref="char:EOLhyphen"/>perſtition, he was exemplary for his re<g ref="char:EOLhyphen"/>verent behavior in Gods Houſe. Nor was he only Religious in the <hi>Church,</hi> but in his <hi>Family,</hi> reſolving with <hi>Joſhua, I and my Houſe will ſerve the Lord,</hi> and dayly ſetting apart time for his private Medita<g ref="char:EOLhyphen"/>tions and Prayers, beginning and cloſing up every day with God.</p>
+            <p n="6">6. Thus ſerved he <hi>God,</hi> and no leſs care<g ref="char:EOLhyphen"/>ful was he to ſerve the <hi>King,</hi> remembring that <hi>Fear the Lord and the King</hi> are join'd together. He was a ſtrenuous aſſertor of Monarchical Government; nor can I paſs by one Argument, which he often uſed upon that account, where Almighty God by his Prophet <hi>Ezekiel</hi> (16. 13.) reckon<g ref="char:EOLhyphen"/>ing up the manifold Bleſſings he had con<g ref="char:EOLhyphen"/>fer'd upon his People <hi>Iſrael,</hi> mentioneth this among other, as none of the leaſt: <hi>Thou didſt proſper into a Kingdom;</hi> by which is clearly intimated, that thoſe Nations are moſt proſperous which are under Kingly Government; nay, that Kingly Govern<g ref="char:EOLhyphen"/>ment is the proſperity to a People.</p>
+            <p n="7">
+               <pb n="38" facs="tcp:103264:24"/> 7. Upon the account of his Loyalty to <hi>Charles</hi> the firſt of Bleſſed Memory, when Lord Mayor, his Houſe was ſearched by thoſe in Power, ſuppoſing there to have found the King; the Year after, he was caſt into the Tower, and there kept a Pri<g ref="char:EOLhyphen"/>ſoner, and for ſeveral Years put by all Offi<g ref="char:EOLhyphen"/>ces and Imployments. Upon the account of his Loyalty to <hi>Charles</hi> the Second, du<g ref="char:EOLhyphen"/>ring his Exile, he hazarded his Eſtate and Life, by ſending him conſiderable Sums of Money beyond Sea; and when the Bleſſed time came of his joyful <hi>Return</hi> to his Throne, though he was in the Seventy Third Year of his Age (which might have been a juſt excuſe for his ſtaying at home) this Aged <hi>Barzillai</hi> went, not only over <hi>Jordan-river,</hi> but croſſed the Sea to attend his Soveraign home.</p>
+            <p n="8">8. Next to God and the King, I dare ſay, the City of <hi>London</hi> was written upon his Heart, wherein he ſpent by far the greateſt part of his Life, and hath now breathed his laſt. Here, through Gods Bleſſing he got, and here he ſpent a con<g ref="char:EOLhyphen"/>ſiderable part of his Eſtate in the Cities Service. He was of ſo publick a Spirit, that when his Son in Law brought him
+<pb n="39" facs="tcp:103264:24"/> the firſt news of his being choſen <hi>Sheriff of London,</hi> he immediatly diſmiſſed the particular buſineſs about which he was, and never after perſonally followed his Trade, but gave himſelf up to the City Concerns. It was his Study to know the Cuſtoms and Uſages, the liberties and priviledges of the <hi>City,</hi> and accordingly his endeavor in his ſeveral capacities to preſerve and maintain them. He was not only in Word but in Deed, an Aſſi<g ref="char:EOLhyphen"/>ſtant, a Guardian, yea a Pillar of the Company of <hi>Drapers.</hi> He was a Vigilant Preſident of St. <hi>Thomas Hoſpital;</hi> which probably had been ruin'd before this, but that his ſagacity and induſtry diſcover'd the fraud of an unjuſt Steward. In the <hi>Court of Aldermen,</hi> he was as an Oracle, very ſubſervient by his Grave and Pru<g ref="char:EOLhyphen"/>dent Counſels to the Cities Government. He was ſo far from ſelf ſeeking, that when he was <hi>Lord Mayor,</hi> he did not make thoſe advantages (which uſually are) by ſell<g ref="char:EOLunhyphen"/>ing the vacant places. Whilſt a private <hi>Trades-man,</hi> he was exact (ſo far as I ever heard) in <hi>Commutative</hi> Juſtice, in his Bargains and Contracts of buy<g ref="char:EOLhyphen"/>ing and ſelling; and when a Publick <hi>Magiſtrate;</hi> he was no leſs Conſcientious
+<pb n="40" facs="tcp:103264:25"/> of <hi>Diſtributive</hi> Juſtice between Man and Man.</p>
+            <p n="9">9. At the Town, where he received his firſt Breath, he Built a <hi>Free-School,</hi> en<g ref="char:EOLhyphen"/>dowing it with a conſiderable maintenance, for the Education of Children. In the U<g ref="char:EOLhyphen"/>niverſity of <hi>Cambridge,</hi> he erected an <hi>A<g ref="char:EOLhyphen"/>rabic Lecture,</hi> and ſetled upon the Lecturer Forty Pounds <hi>per annum,</hi> for his pains in Reading it. Nor were theſe munificent works to bear the date of their beginning from his Death, but the one began Twen<g ref="char:EOLhyphen"/>ty, and the other Thirty Years ago; nor is their maintenance only ſettled for ſome term of Years, but (as we uſually expreſs it) for ever. He was at the charge alſo (at the deſire of the Reverend Mr. <hi>Whee<g ref="char:EOLhyphen"/>look,</hi> now with God) of Printing the <hi>Per<g ref="char:EOLhyphen"/>ſian Goſpels,</hi> and tranſmitting them into the Eaſtern parts of the World. By theſe ways he endeavored to promote the Chriſtian Religion, <hi>throwing a Stone</hi> (to uſe his own Language) <hi>at the Forehead of</hi> Mahomet <hi>that grand Impoſtor.</hi>
+            </p>
+            <p n="10">10. His Hands were frequently open, whilſt he lived, upon all occaſions, and notwithſtanding many late great damages
+<pb n="41" facs="tcp:103264:25"/> to his Eſtate, he hath given conſiderable Legacies to the Poor of ſeveral Pariſhes, to Hoſpitals, to <hi>Miniſters Widows,</hi> and ſuch like at his Death.</p>
+            <p n="11">11. To the reſt of his Graces and Vir<g ref="char:EOLhyphen"/>tues I add his <hi>Patience,</hi> whereby he ſerved God in Suffering. The truth is, this good Goat (like <hi>Joſeph</hi>'s) was particolor'd; his Wine mixt with Water, nay with Gall and Worm<g ref="char:EOLhyphen"/>wood; ſuch Croſſes as he could not have born, <hi>were it not</hi> (ſaid he) <hi>for this Book,</hi> pointing to the <hi>Bible</hi> which lay before him; frequently (among others) making uſe of that paſſage of <hi>Job; Shall we receive good at the Hands of God, and ſhall we not receive Evil?</hi>
+            </p>
+            <p n="12">12. He Dyed of the <hi>Stone;</hi> a Stone ſo weighty, that it exceeded Twenty Five Ounces; ſo grievous, that a little before his Death it made him roar, but yet not murmur, God Graciouſly ſuſtaining him under the Pain of it. And had there not been a Channel (by a remarkable Provi<g ref="char:EOLhyphen"/>dence) cut through the Stone for his Wa<g ref="char:EOLhyphen"/>ter to paſs, the ſtoppage of it muſt of neceſ<g ref="char:EOLhyphen"/>ſſity have very much added to his ſmart and leſſen'd his days. But now he hath taken his
+<pb n="42" facs="tcp:103264:26"/> leave of this World; and I may well ſay with St. <hi>Ambnoſe, In illo uno</hi> &amp;c. <hi>In this one Perſon there is a manifold loſs.</hi> The <hi>King</hi> hath loſt a loyal Subject, the <hi>Church</hi> a Faithful Son, the <hi>City</hi> a Prudent Senator. He is departed from the Inn of this World to the home of his Grave, of which he was before mindful, frequently ſaying, <hi>So<g ref="char:EOLhyphen"/>lum mihi ſuperest ſepulchrum,</hi> where he ſhall ſleep in the duſt, till he awake and ariſe to Glory.</p>
+            <trailer>FINIS.</trailer>
+            <pb facs="tcp:103264:26"/>
+         </div>
+      </body>
+   </text>
+</TEI>
